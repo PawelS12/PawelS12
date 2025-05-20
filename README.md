@@ -1,4 +1,4 @@
-## 👋 Hi there
+## Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 My name is Paweł, and I am currently studying Computer Science and Engineering at AGH in Cracow. I am passionate about programming, cinema, literature, strength training, and continuous learning. 
 
 
